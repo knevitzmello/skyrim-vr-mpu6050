@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArduinoSerial
+comment0.text=\r\n\ <b>Site\:\ www.descompila.com</b>\r\n\ \r\n\ <b>Email\:\ samuelson@descompila.com</b>\r\n\ \r\n\ @author\ Samuelson\ Brito\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=portName
+comment1.target=ArduinoSerial(java.lang.String)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=data
+comment3.target=void\ send(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ read()
+comment5.params=time
+comment5.target=void\ sleep(int)
+comment6.params=
+comment6.target=void\ close()
+comment6.text=\r\n\ This\ should\ be\ called\ when\ you\ stop\ using\ the\ port.\ This\ will\ prevent\r\n\ port\ locking\ on\ platforms\ like\ Linux.\r\n
+comment7.params=oEvent
+comment7.target=void\ serialEvent(gnu.io.SerialPortEvent)
+comment7.text=\r\n\ Handle\ an\ event\ on\ the\ serial\ port.\ Read\ the\ data\ and\ print\ it.\r\n\r\n\ @param\ oEvent\r\n
+numComments=8

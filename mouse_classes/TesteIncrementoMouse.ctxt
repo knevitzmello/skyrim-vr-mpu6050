@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TesteIncrementoMouse
+comment1.params=
+comment1.target=TesteIncrementoMouse()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ incrementaX()
+comment4.params=
+comment4.target=void\ run()
+numComments=5

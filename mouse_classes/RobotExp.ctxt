@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RobotExp
+comment1.params=
+comment1.target=RobotExp()
+comment2.params=x\ y
+comment2.target=void\ recebe(int,\ int)
+comment3.params=
+comment3.target=void\ moveX()
+comment4.params=
+comment4.target=void\ moveA()
+comment5.params=
+comment5.target=void\ moveD()
+numComments=6
